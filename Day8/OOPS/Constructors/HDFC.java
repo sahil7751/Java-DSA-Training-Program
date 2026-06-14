@@ -1,5 +1,3 @@
-package Day8.OOPS.Constructors;
-
 public class HDFC {
     String name;
     int AccNo;

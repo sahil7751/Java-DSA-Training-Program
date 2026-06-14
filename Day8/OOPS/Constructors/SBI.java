@@ -1,5 +1,3 @@
-package Day8.OOPS.Constructors;
-
 public class SBI {
     public String name;
     public String AccNo;
@@ -10,7 +8,7 @@ public class SBI {
         AccNo = "1X1X1X";
         balance = 0;
     }
-
+ 
     SBI(String name, String AccNo, int balance) {
         this.name = name;
         this.AccNo = AccNo;

@@ -1,5 +1,3 @@
-package Day8.OOPS.Constructors;
-
 public class Product {
     String name;// class attributes
     int price;// instance variables -> current objects
@@ -13,5 +11,5 @@ public class Product {
         this.name = otherproduct.name;
         this.price = otherproduct.price;
     }
-
+ 
 }

@@ -1,5 +1,3 @@
-package Day8.OOPS.Constructors;
-
 import java.util.Scanner;
 
 public class App2 {

@@ -1,0 +1,21 @@
+Flipkart
+
+Add items to the cart 
+Remove Products 
+Update product nane 
+Search for product 
+Display all products 
+Sort product (alpha)
+
+Duplicate products allowed 
+Customer can buy multiple quantities as well
+
+Class Praduct { product Id 
+                ProductName; 
+                price; 
+                category;
+                }
+
+List<Product> = new Arrayliste>();
+
+

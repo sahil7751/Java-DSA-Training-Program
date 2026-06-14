@@ -1,5 +1,3 @@
-package Day8.OOPS.Constructors;
-
 public class Index {
     public static void main(String[] args) {
         Product Electronic1 = new Product("Mobile", 30000);
@@ -9,5 +7,5 @@ public class Index {
         System.out.println(Electronic1.name);
         System.out.println(Electronic2.name);
 
-    }
+    } 
 }
